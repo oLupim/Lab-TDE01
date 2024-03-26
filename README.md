@@ -1,2 +1,2 @@
-# Lab-TDE01
-Laboratório de Programação - TDE01
+# Laboratório de Programação
+Laboratório de Programação - Ulbra
